@@ -7,6 +7,6 @@ Linux Application Development -- see https://uneex.ru/LecturesCMC/LinuxApplicati
 * [Lecture #00](https://uneex.ru/LecturesCMC/LinuxApplicationDevelopment2025/00_BuildEnv) 
     * Homework: create an empty git repo -- Done
 
-* [Lecture #00](https://uneex.ru/LecturesCMC/LinuxApplicationDevelopment2025/01_TerminalProject)
+* [Lecture #01](https://uneex.ru/LecturesCMC/LinuxApplicationDevelopment2025/01_TerminalProject)
     * Homework: create a terminal program to display a file via ncurses library and a makefile -- Done in simple variant
 	* `sudo apt install libncurses-dev`
